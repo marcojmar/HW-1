@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://drive.google.com/drive/folders/0B647qO1uSNe7ajluYTY2VlVPeEk" target="_blank">Todo Video Walkthrough<a/>
+<a href="https://drive.google.com/file/d/0B647qO1uSNe7TEV3ajdETW56TGM/view?usp=sharing" target="_blank">Todo Video Walkthrough<a/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
